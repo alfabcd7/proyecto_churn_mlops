@@ -1,0 +1,29 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Datos generados
+data/*.csv
+
+# Modelo y metadata generados
+models/*.joblib
+models/*.json
+
+# Cache de pruebas
+.pytest_cache/
+
+# Configuracion local
+.env
+
+# Editor
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
