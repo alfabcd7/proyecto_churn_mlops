@@ -1,4 +1,4 @@
-# proyecto-churn-mlops-tuapellido
+# proyecto-churn-mlops
 
 Servicio de predicción de abandono de clientes (churn) construido con FastAPI, scikit-learn y Docker como parte del Módulo 14 — ML-Ops y Puesta en Producción.
 
